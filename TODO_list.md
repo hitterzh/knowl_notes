@@ -6,6 +6,7 @@
 4. 泛型
 5. 摩尔投票
 6. python collections
+7. git 基础
 
 
 
